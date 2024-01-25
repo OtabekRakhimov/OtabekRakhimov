@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Data/Business Analysis
-- 👯 I’m looking to collaborate on Data projects
-- 🤔 I’m looking for help with the finding a job
+- 👯 I’m looking to collaborate on fun projects
 - 💬 Ask me about anything 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/otabek-rakhimov-a801761a4/)
